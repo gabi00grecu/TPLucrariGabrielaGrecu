@@ -1,0 +1,11 @@
+# Raport - Laboratorul 6: Informații invizibile, forensics și steganografie
+
+## 1. Mesajul ascuns în straturi (Salut)
+* **Rezultat:** [Aici scrii mesajul final pe care l-a afișat scriptul tău după decodarea succesivă, de ex. un flag sau un text oarecare]
+
+## 2. Spargerea cifrului XOR (Pasul A5)
+* **Cheie găsită (`k`):** [66]
+* **Mesaj decodat:** [Textul obținut]
+
+## 3. Spargerea hash-ului prin dicționar (Pasul A6)
+* **Parolă găsită:** [53595759]
