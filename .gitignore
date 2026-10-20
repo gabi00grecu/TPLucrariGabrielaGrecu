@@ -1,2 +1,3 @@
-print("unu")
-print("doi")
+.venv/ 
+
+__pycache__/ 
